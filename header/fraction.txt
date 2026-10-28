@@ -1,0 +1,9 @@
+using namespace _frac;
+
+defined a class(can be use as struct) : fraction
+usages:
+
+fraction(double).str()
+
+fraction(double).frac1() or fraction(double).nomerator
+fraction(double).frac2() or fraction(double).denominator
