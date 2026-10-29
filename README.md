@@ -15,3 +15,4 @@
 | Others | No need to download. |
 
 If your game failed and you don't know what happened,contact me at huang_yuchen_2010@163.com, with subject "FTTCrach".
+For better game, see https://github.com/noooooobest/FlushTheToilet, but you might have no access to it.
